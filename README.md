@@ -12,7 +12,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/mashm3ll0w/todoList-EJS.git
+$ git clone https://github.com/Raaghav-1824/ToDo-List-APP.git
 
 # Go into the repository
 $ cd todoList-EJS
@@ -25,10 +25,10 @@ $ npm install
 $ nodemon app.js
 
 # Launch your preferred browser and interact with the app using the url;
-> 127.0.0.1:8080 or localhost:8080
+> localhost:3000
 
 # Load the project in your preferred editor
-$ atom .
+$ code .
 ```
 
 ## Technologies used

@@ -38,5 +38,7 @@ $ code .
 * Node-js
 * Express
 * EJS
+
+![app](public/images/img.png)
 </div>
 

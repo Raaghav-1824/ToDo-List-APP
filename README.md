@@ -39,6 +39,6 @@ $ code .
 * Express
 * EJS
 
-![app](public/Screenshot(74))
+![app]((https://github.com/Raaghav-1824/ToDo-List-APP/blob/main/images/Screenshot%20(74).png))
 </div>
 

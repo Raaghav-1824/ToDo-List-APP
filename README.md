@@ -39,6 +39,6 @@ $ code .
 * Express
 * EJS
 
-![app](public/images/img.png)
+![app](public/Screenshot(74))
 </div>
 
